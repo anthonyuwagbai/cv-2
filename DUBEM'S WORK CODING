@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+
+<head>
+  <meta charset="utf-8">
+  <title>Dubem's Personal Site</title>
+</head>
+
+<body>
+  <h1> ANTHONY UWAGBAI</h1>
+  <img src=
+  <p><em>FOUNDER OF DUBEM AND THOMAS <strong>ENTERPRISE</strong>.</em></p>
+  <P>I am the best in the world in terms of getting work done</P>
+  <hr size='1'noshade />
+  <h3>LIST OF SCHOOLS</h3>
+  <UL>
+    <li>SEAT OF WISDOM </li>
+    <LI>SACRED HEART CATHOLIC COLLEGE</LI>
+    <LI>COMMAND DAY SECONDARY SCHOOL</LI>
+  </UL>
+  <H3>MY HOBBIES</H3>
+  <OL>
+    <lI>FOOTBALL</lI>
+    <LI>ESPORTS</LI>
+  </OL>
+
+</body>
+
+</html>
